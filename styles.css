@@ -1,4 +1,25 @@
 /*homepage--------------*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: linear-gradient(311.76deg, #bad9ff -15.24%, #e4e9ea66 78.85%);
+}
+
+header{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 25px;
+}
+
+
 
 
 /*********************************/
