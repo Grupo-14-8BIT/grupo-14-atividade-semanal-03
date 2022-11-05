@@ -11,36 +11,59 @@ body{
 }
 
 header{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 25px;
+  margin: 5vh 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 32px;
+  
+}
+
+header{
+  font-family: 'Inter',sans-serif;
 }
 
 header h1{
-    font-family: 'Inter',sans-serif;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.texto{
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  margin-right: 35vw;
+  color: #757575;
+  font-size: 10px;
+}
+
+.t:hover{
+  color: black;
+  font-weight: bold;
 }
 
 .botaologin{
-    border-radius: 10px;
-    font-family: 'Inter';
-    color: #ffffff;
-    font-size: 20px;
-    background: #217BF4;
-    padding: 14px 35px 14px 35px;
-    text-decoration: none;
-    border: none;
+  border-radius: 10px;
+  font-family: 'Inter';
+  color: #ffffff;
+  font-size: 20px;
+  background: #217BF4;
+  padding: 14px 35px 14px 35px;
+  text-decoration: none;
+  border: none;
   }
   
   .botaologin:hover {
     background: #05639e;
     text-decoration: none;
   }
- 
-  .botao{
-    gap: 30vh;
+
+  .imagen{
+    margin-right: 50px;
+  }
+
+  .home{
+    opacity: 0.1;
+    border: 1px solid #217BF4;
   }
 /*********************************/
