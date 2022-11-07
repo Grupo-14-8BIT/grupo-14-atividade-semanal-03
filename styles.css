@@ -146,5 +146,104 @@ header h1{
   /*********************************/
 
   /**************COMUNIDADE*******************/
+.comunidade-texto{
 
-  .icone1
+}
+  .comunidade h1{
+    color:  #2F2C4A;
+  }
+
+  .comunidade p{
+    color:  #656464;
+  }
+
+  .comunidade-texto-1{
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+  }
+
+  .comunidade-texto-2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+  }
+
+  .comunidade-texto-3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+  }
+
+  .quadro1{
+    display: flex;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+
+    background: #FFFFFF;
+    border-radius: 14px;
+  }
+
+  .quadro2{
+    display: flex;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    
+    background: #FFFFFF;
+    border-radius: 14px;
+  }
+
+  .quadro3{
+    display: flex;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;  
+  }
+
+  .quadro4{
+    display: flex;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;  
+  }
+
+  .quadro5{
+    display: flex;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;  
+  }
+
+  .quadro6{
+    display: flex;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px; 
+    
+    width: 315px;
+height: 52px;
+left: 884px;
+top: 800px;
+background: #FFFFFF;
+border-radius: 14px;
+  }
