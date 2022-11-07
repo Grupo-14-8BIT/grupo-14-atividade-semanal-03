@@ -245,34 +245,28 @@ header {
 /*MEMBROS*/
 
 
-.valuable-Team {
+.valuable-Team{
     color: #217BF4;
     display: flex;
     justify-content: center;
 }
 
-.Our-Active-Members {
+.Our-Active-Members{
     display: flex;
     justify-content: center;
     font-family: 'Secular One', sans-serif;
 }
 
-.paragraph {
+.paragraph{
     display: flex;
     justify-content: center;
 }
-
 
 .buttons{
     margin-top: 38px;
 }
 
-
-.buttons {
-    margin-top: 38px;
-}
-
-.newst {
+.newst{
     background: rgb(222, 222, 222);
     border-width: 0px;
     height: 72px;
@@ -283,8 +277,7 @@ header {
     border-top-left-radius: 14px;
 }
 
-.popular {
-
+.popular{
     background: rgb(222, 222, 222);
     border-width: 0px;
     height: 72px;
@@ -293,8 +286,7 @@ header {
     top: 0px;
 }
 
-
-.backs {
+.backs{
     position: relative;
     background: rgb(222, 222, 222);
     border-width: 0px;
@@ -307,7 +299,7 @@ header {
     border-bottom-right-radius: 14px;
 }
 
-.active {
+.active{
     background: #217BF4;
     color: aliceblue;
     box-shadow: 2px 2px 6px;
@@ -318,8 +310,12 @@ header {
     border-width: 0px;
     border-radius: 14px;
 }
-.f-back {
 
+.members-id{
+    margin-bottom: 500px;
+}
+
+.f-back{
     background-color: #f8f8f8;
     border-radius: 14px;
     position: absolute;
@@ -341,8 +337,8 @@ header {
 }
 
 .fa-check{
-margin-left: 6px;
-margin-top: 8px;
+    margin-left: 6px;
+    margin-top: 8px;
 }
 
 .f-check{
@@ -378,11 +374,7 @@ p{
     font-style: normal;  
     width: 171px;
     height: 26px;
-    
 }
-
-
-/********************************KAZI***********************************************/
 
 .k-back{
     background-color: #f8f8f8;
@@ -436,8 +428,6 @@ margin-top: 8px;
     margin-top: 35px;
 }
 
-/***********************************MASTERERO*********************************************/
-
 .m-back{
     background-color: #f8f8f8;
     border-radius: 14px;
@@ -489,8 +479,6 @@ margin-top: 8px;
 .masterero{
     margin-top: 35px;
 }
-
-/***********************************ALIA***************************************************/
 
 .a-back{
     background-color: #f8f8f8;
