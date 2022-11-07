@@ -124,36 +124,27 @@ header {
 /*MEMBROS*/
 
 .valuable-Team{
-
     color: #217BF4;
     display: flex;
     justify-content: center;
-
 }
 
 .Our-Active-Members{
-
     display: flex;
     justify-content: center;
     font-family: 'Secular One', sans-serif;
-
 }
 
 .paragraph{
-
     display: flex;
     justify-content: center;
-
 }
 
 .buttons{
-
     margin-top: 38px;
-
 }
 
 .newst{
-
     background: rgb(222, 222, 222);
     border-width: 0px;
     height: 72px;
@@ -165,18 +156,15 @@ header {
 }
 
 .popular{
-
     background: rgb(222, 222, 222);
     border-width: 0px;
     height: 72px;
     width: 158px;
     margin-left: -5px;
     top: 0px;
-
 }
 
 .backs{
-
     position: relative;
     background: rgb(222, 222, 222);
     border-width: 0px;
@@ -187,11 +175,9 @@ header {
     border-width: 0px;
     border-top-right-radius: 14px;
     border-bottom-right-radius: 14px;
-
 }
 
 .active{
-
     background: #217BF4;
     color: aliceblue;
     box-shadow: 2px 2px 6px;
@@ -201,25 +187,229 @@ header {
     margin-top: 10px;
     border-width: 0px;
     border-radius: 14px;
-
 }
 
-.members-id{
+/***************************FAHIM***********************************************/
 
+.f-back{
     background-color: #f8f8f8;
     border-radius: 14px;
     position: absolute;
     width: 270px;
     height: 316px;
+    margin-top: 44px;
+    margin-left: 50px ;
+    z-index: -2;
+}
+
+.f-ring{
+    background-image: url(ring.png);
+    position: absolute;
+    width: 170px;
+    height: 166px;
+    margin-left: 50px;
+    margin-top: 30px;
+    z-index: -1;
+}
+
+.fa-check{
+margin-left: 6px;
+margin-top: 8px;
+}
+
+.f-check{
+    background-color: #217BF4;
+    border-radius: 20px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 60px;
+    margin-top: -15px;
+    z-index: 3;
+}
+
+.f-circle{
+    background-color: #adacd7;
+    position: absolute;  
+    width: 142px;
+    height: 142px;
+    border-radius: 100px;
+    margin-left: 15px;
+    margin-top: 12px;
+    z-index: 1;
+}
+
+p{
+
+    margin-left: 40px;
 
 }
 
 .fahim{
-
-background-image: url(fahim.png);
-
-
+    margin-top: 35px;
+    font-style: normal;  
+    width: 171px;
+    height: 26px;
 }
 
+/********************************KAZI***********************************************/
 
-/*************************************************
+.k-back{
+    background-color: #f8f8f8;
+    border-radius: 14px;
+    position: absolute;
+    width: 270px;
+    height: 316px;
+    margin-top: 44px;
+    margin-left: 350px ;
+    z-index: -2;
+}
+
+.k-ring{
+    background-image: url(ring.png);
+    position: absolute;
+    width: 170px;
+    height: 166px;
+    margin-left: 50px;
+    margin-top: 30px;
+    z-index: -1;
+}
+
+.ka-check{
+margin-left: 6px;
+margin-top: 8px;
+}
+
+.k-check{
+    background-color: #217BF4;
+    border-radius: 20px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 60px;
+    margin-top: -15px;
+    z-index: 3;
+}
+
+.k-circle{
+    background-color: #adacd7;
+    position: absolute;  
+    width: 142px;
+    height: 142px;
+    border-radius: 100px;
+    margin-left: 15px;
+    margin-top: 12px;
+    z-index: 1;
+}
+
+.kazi{
+    margin-top: 35px;
+}
+
+/***********************************MASTERERO*********************************************/
+
+.m-back{
+    background-color: #f8f8f8;
+    border-radius: 14px;
+    position: absolute;
+    width: 270px;
+    height: 316px;
+    margin-top: 44px;
+    margin-left: 650px ;
+    z-index: -2;
+}
+
+.m-ring{
+    background-image: url(ring.png);
+    position: absolute;
+    width: 170px;
+    height: 166px;
+    margin-left: 50px;
+    margin-top: 30px;
+    z-index: -1;
+}
+
+.ma-check{
+margin-left: 6px;
+margin-top: 8px;
+}
+
+.m-check{
+    background-color: #217BF4;
+    border-radius: 20px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 60px;
+    margin-top: -15px;
+    z-index: 3;
+}
+
+.m-circle{
+    background-color: #adacd7;
+    position: absolute;  
+    width: 142px;
+    height: 142px;
+    border-radius: 100px;
+    margin-left: 15px;
+    margin-top: 12px;
+    z-index: 1;
+}
+
+.masterero{
+    margin-top: 35px;
+}
+
+/***********************************ALIA***************************************************/
+
+.a-back{
+    background-color: #f8f8f8;
+    border-radius: 14px;
+    position: absolute;
+    width: 270px;
+    height: 316px;
+    margin-top: 44px;
+    margin-left: 950px ;
+    z-index: -2;
+}
+
+.a-ring{
+    background-image: url(ring.png);
+    position: absolute;
+    width: 170px;
+    height: 166px;
+    margin-left: 50px;
+    margin-top: 30px;
+    z-index: -1;
+}
+
+.aa-check{
+margin-left: 6px;
+margin-top: 8px;
+}
+
+.a-check{
+    background-color: #217BF4;
+    border-radius: 20px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 60px;
+    margin-top: -15px;
+    z-index: 3;
+}
+
+.a-circle{
+    background-color: #adacd7;
+    position: absolute;  
+    width: 142px;
+    height: 142px;
+    border-radius: 100px;
+    margin-left: 15px;
+    margin-top: 12px;
+    z-index: 1;
+}
+
+.alia{
+    margin-top: 35px;
+}
