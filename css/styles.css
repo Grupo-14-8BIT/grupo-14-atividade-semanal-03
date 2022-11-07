@@ -1,11 +1,11 @@
 /*homepage--------------*/
-
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
 * {
     margin: 0px;
     padding: 0px;
 }
-
 
 /*body{
     background: linear-gradient(311.76deg, #bad9ff -15.24%, #e4e9ea66 78.85%);
@@ -44,4 +44,115 @@ header {
 }
 
 
-/*          */
+/****************************************************/
+
+/*AVALIACAO*/
+
+/****************************************************/
+
+/*COMUNIDADES*/
+
+/****************************************************/
+
+/*MEMBROS*/
+
+.valuable-Team{
+
+    color: #217BF4;
+    display: flex;
+    justify-content: center;
+
+}
+
+.Our-Active-Members{
+
+    display: flex;
+    justify-content: center;
+    font-family: 'Secular One', sans-serif;
+
+}
+
+.paragraph{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.buttons{
+
+    margin-top: 38px;
+
+}
+
+.newst{
+
+    background: rgb(222, 222, 222);
+    border-width: 0px;
+    height: 72px;
+    width: 158px;
+    top: 20px;
+    margin-left: 400px;
+    border-bottom-left-radius: 14px;
+    border-top-left-radius: 14px;
+}
+
+.popular{
+
+    background: rgb(222, 222, 222);
+    border-width: 0px;
+    height: 72px;
+    width: 158px;
+    margin-left: -5px;
+    top: 0px;
+
+}
+
+.backs{
+
+    position: relative;
+    background: rgb(222, 222, 222);
+    border-width: 0px;
+    height: 72px;
+    width: 158px;
+    margin-left: 715px;
+    margin-top: -72px;
+    border-width: 0px;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+
+}
+
+.active{
+
+    background: #217BF4;
+    color: aliceblue;
+    box-shadow: 2px 2px 6px;
+    border-width: 0px;
+    height: 56px;
+    width: 150px;
+    margin-top: 10px;
+    border-width: 0px;
+    border-radius: 14px;
+
+}
+
+.members-id{
+
+    background-color: #f8f8f8;
+    border-radius: 14px;
+    position: absolute;
+    width: 270px;
+    height: 316px;
+
+}
+
+.fahim{
+
+background-image: url(fahim.png);
+
+
+}
+
+
+/*************************************************
