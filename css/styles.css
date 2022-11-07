@@ -388,6 +388,7 @@ header {
 	margin-top:600px;
 }
 
+
 .valuable-Team {
     color: #217BF4;
     display: flex;
@@ -405,6 +406,12 @@ header {
     justify-content: center;
 }
 
+
+.buttons{
+    margin-top: 38px;
+}
+
+
 .buttons {
     margin-top: 38px;
 }
@@ -421,6 +428,7 @@ header {
 }
 
 .popular {
+
     background: rgb(222, 222, 222);
     border-width: 0px;
     height: 72px;
@@ -428,6 +436,7 @@ header {
     margin-left: -5px;
     top: 0px;
 }
+
 
 .backs {
     position: relative;
@@ -453,22 +462,236 @@ header {
     border-width: 0px;
     border-radius: 14px;
 }
+.f-back {
 
-.members-id {
     background-color: #f8f8f8;
     border-radius: 14px;
     position: absolute;
     width: 270px;
     height: 316px;
+    margin-top: 44px;
+    margin-left: 50px ;
+    z-index: -2;
 }
 
-.fahim {
-    background-image: url(fahim.png);
+.f-ring{
+    background-image: url(ring.png);
+    position: absolute;
+    width: 170px;
+    height: 166px;
+    margin-left: 50px;
+    margin-top: 30px;
+    z-index: -1;
+}
+
+.fa-check{
+margin-left: 6px;
+margin-top: 8px;
+}
+
+.f-check{
+    background-color: #217BF4;
+    border-radius: 20px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 60px;
+    margin-top: -15px;
+    z-index: 3;
+}
+
+.f-circle{
+    background-color: #adacd7;
+    position: absolute;  
+    width: 142px;
+    height: 142px;
+    border-radius: 100px;
+    margin-left: 15px;
+    margin-top: 12px;
+    z-index: 1;
+}
+
+p{
+
+    margin-left: 40px;
+
+}
+
+.fahim{
+    margin-top: 35px;
+    font-style: normal;  
+    width: 171px;
+    height: 26px;
+    
 }
 
 
+<<<<<<< HEAD
 
 /*************************************************
 
 
 /*avaliacoes*/
+=======
+/********************************KAZI***********************************************/
+
+.k-back{
+    background-color: #f8f8f8;
+    border-radius: 14px;
+    position: absolute;
+    width: 270px;
+    height: 316px;
+    margin-top: 44px;
+    margin-left: 350px ;
+    z-index: -2;
+}
+
+.k-ring{
+    background-image: url(ring.png);
+    position: absolute;
+    width: 170px;
+    height: 166px;
+    margin-left: 50px;
+    margin-top: 30px;
+    z-index: -1;
+}
+
+.ka-check{
+margin-left: 6px;
+margin-top: 8px;
+}
+
+.k-check{
+    background-color: #217BF4;
+    border-radius: 20px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 60px;
+    margin-top: -15px;
+    z-index: 3;
+}
+
+.k-circle{
+    background-color: #adacd7;
+    position: absolute;  
+    width: 142px;
+    height: 142px;
+    border-radius: 100px;
+    margin-left: 15px;
+    margin-top: 12px;
+    z-index: 1;
+}
+
+.kazi{
+    margin-top: 35px;
+}
+
+/***********************************MASTERERO*********************************************/
+
+.m-back{
+    background-color: #f8f8f8;
+    border-radius: 14px;
+    position: absolute;
+    width: 270px;
+    height: 316px;
+    margin-top: 44px;
+    margin-left: 650px ;
+    z-index: -2;
+}
+
+.m-ring{
+    background-image: url(ring.png);
+    position: absolute;
+    width: 170px;
+    height: 166px;
+    margin-left: 50px;
+    margin-top: 30px;
+    z-index: -1;
+}
+
+.ma-check{
+margin-left: 6px;
+margin-top: 8px;
+}
+
+.m-check{
+    background-color: #217BF4;
+    border-radius: 20px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 60px;
+    margin-top: -15px;
+    z-index: 3;
+}
+
+.m-circle{
+    background-color: #adacd7;
+    position: absolute;  
+    width: 142px;
+    height: 142px;
+    border-radius: 100px;
+    margin-left: 15px;
+    margin-top: 12px;
+    z-index: 1;
+}
+
+.masterero{
+    margin-top: 35px;
+}
+
+/***********************************ALIA***************************************************/
+
+.a-back{
+    background-color: #f8f8f8;
+    border-radius: 14px;
+    position: absolute;
+    width: 270px;
+    height: 316px;
+    margin-top: 44px;
+    margin-left: 950px ;
+    z-index: -2;
+}
+
+.a-ring{
+    background-image: url(ring.png);
+    position: absolute;
+    width: 170px;
+    height: 166px;
+    margin-left: 50px;
+    margin-top: 30px;
+    z-index: -1;
+}
+
+.aa-check{
+margin-left: 6px;
+margin-top: 8px;
+}
+
+.a-check{
+    background-color: #217BF4;
+    border-radius: 20px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 60px;
+    margin-top: -15px;
+    z-index: 3;
+}
+
+.a-circle{
+    background-color: #adacd7;
+    position: absolute;  
+    width: 142px;
+    height: 142px;
+    border-radius: 100px;
+    margin-left: 15px;
+    margin-top: 12px;
+    z-index: 1;
+}
+
+.alia{
+    margin-top: 35px;
+}
+>>>>>>> 87980689154166b5f1ee63591f3a9bf34e52a047
