@@ -111,4 +111,116 @@ header {
 }
 
 
-/*          */
+/*    FOOTER      */
+
+.cima {
+    padding-top: 78px;
+    padding-bottom: 85px;
+    background-color: #2B2B39;
+    display: flex;
+    gap: 173px;
+}
+
+.textos {
+    display: flex;
+    gap: 98px;
+    padding-left: 135px;
+}
+
+.baixo {
+    display: flex;
+    background-color: #20202D;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #F6F6F6;
+}
+
+.social {
+    display: flex;
+    margin: 36px;
+}
+
+.text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 46px;
+    letter-spacing: 0.0125em;
+    color: #E7E7E7;
+}
+
+.text strong {
+    white-space: nowrap;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.subscribe {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    color: #FFFFFF;
+    padding-right: 295px;
+}
+
+.subscribe-subtitle {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #E7E7E7;
+}
+
+.email-input {
+    width: 280px;
+    height: 48px;
+    left: 966px;
+    top: 244px;
+    border: 1px solid rgba(255, 255, 255, 0.85);
+    border-radius: 12px;
+    background: #2B2B39;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 12px;
+    text-align: center;
+    letter-spacing: 0.0125em;
+    color: #717179;
+}
+
+.submit-input {
+    width: 126px;
+    height: 48px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    color: #2B2B39;
+    border-collapse: collapse;
+    position: absolute;
+}
+
+.email {
+    display: flex;
+    gap: 0px;
+}
